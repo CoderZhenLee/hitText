@@ -1,5 +1,7 @@
+ ![效果图](https://github.com/CoderZhenLee/hitText/blob/master/hitText.gif)
+
 # hitText
- ![](http://img.blog.csdn.net/20160520220942154)
+
 **hitText作用:**  当在一个屏幕上添加一个屏幕罩，但又不影响下面 view 的操作时，也就是透过屏幕罩对下面的 view 进行操作。
 
 举例说明：(陌陌面试题)
